@@ -1,0 +1,12 @@
+"Source:","D:\Windows\Kicad\7.0\Projects\Test\Arduino uno shield\Arduino uno shield\Arduino uno shield.kicad_sch"
+"Date:","1/14/2024 4:34:02 PM"
+"Tool:","Eeschema 7.0.10"
+"Generator:","D:\Windows\Kicad\7.0\bin\scripting\plugins/bom_csv_grouped_by_value.py"
+"Component Count:","17"
+
+"Collated Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet","DNP"
+"1","1","A1","Arduino_UNO_R2","MCU_Module:Arduino_UNO_R2","Module:Arduino_UNO_R2","https://www.arduino.cc/en/Main/arduinoBoardUno",""
+"2","8","D1, D2, D3, D4, D5, D6, D7, D8","LED","Device:LED","LED_SMD:LED_0805_2012Metric","~",""
+"3","8","R1, R2, R3, R4, R5, R6, R7, R8","247","Device:R_Small_US","Resistor_SMD:R_0603_1608Metric","~",""
